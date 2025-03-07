@@ -3,7 +3,9 @@
 <h3 align="center">A passionate programmer in training from Perú</h3>
 
 - 👯 I’m looking to collaborate on **projects that make the developer community bigger**
-- 📫 How to reach me **danielalcedo@gmail.com**
+- 🤝 I’m looking to collaborate on **open-source projects** 
+- 👨‍💻 Programmer with **fast learning.**
+- 📩 How to reach me **danielalcedo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

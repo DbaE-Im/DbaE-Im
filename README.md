@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **projects that make the developer community bigger**
 - 🤝 I’m looking to collaborate on **open-source projects** 
 - 👨‍💻 Programmer with **fast learning.**
-- 📩 How to reach me **danielalcedo55@gmail.com**
+- 📩 How to reach me **danielalcedo20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
